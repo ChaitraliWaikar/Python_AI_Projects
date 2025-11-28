@@ -3,19 +3,19 @@ This repository contains all the projects I worked on during the Edunet Foundati
 
 🛠️ Projects:
 
-1️⃣ Water Shortage Risk Prediction
+# 1️⃣ Water Shortage Risk Prediction
 
 Algorithm Used: Linear Regression
          Description: Predicts water shortage risks based on environmental data.
 
-2️⃣ Water Usage Prediction
+# 2️⃣ Water Usage Prediction
 
 Algorithm Used: Logistic Regression (Unsupervised Learning)
 
 Description: Predicts water consumption patterns to promote sustainable water usage.
 
 
-3️⃣ Potato Leaf Disease Detection System
+# 3️⃣ Potato Leaf Disease Detection System
 
 Algorithm Used: Convolutional Neural Network (CNN)
 
