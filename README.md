@@ -21,7 +21,33 @@ Algorithm Used: Convolutional Neural Network (CNN)
 
 Description: An image classification model that identifies potato leaf diseases, showcasing deep learning in action.
 
-Acknowledgments:
+4️⃣
+# Tweet Generator Agent (Powered by Google Gemini)
 
-Special thanks to Edunet Foundation, Shell, and our amazing trainer for simplifying complex concepts and ensuring we gained practical insights into AI development.
-Feel free to explore the projects and contribute! 
+An interactive tweet (or X post) generator that uses **Google’s Gemini API** to create perfect tweets based on your topic, tone, audience, and hashtags.
+
+Fully interactive — just fill the fields and click **Generate Tweet**!
+
+## ✨ Live Demo (Works instantly – no install needed)
+
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EFTH2-h0her6qChJe1ju4lqf0JDFtW6O?usp=sharing)
+
+Click the badge above ↑ and run the cells → everything works out of the box!
+
+## Features
+- Choose tone: Professional, Casual, Motivational, Informative  
+- Target any audience  
+- Auto-add relevant hashtags  
+- Keeps tweets under 280 characters  
+- Beautiful interactive UI with ipywidgets
+
+## How to use
+1. Open the Colab link above  
+2. Run all cells (Runtime → Run all or Ctrl+F9)  
+3. Scroll down to the form, fill it, and click **Generate Tweet**
+
+Made with ❤️ using Google Gemini + Jupyter widgets
+
+---
+⭐ If you like it, give the repo a star!  
+Feel free to fork and improve it.
