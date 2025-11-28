@@ -21,8 +21,7 @@ Algorithm Used: Convolutional Neural Network (CNN)
 
 Description: An image classification model that identifies potato leaf diseases, showcasing deep learning in action.
 
-4️⃣
-# Tweet Generator Agent (Powered by Google Gemini)
+# 4️⃣ Tweet Generator Agent (Powered by Google Gemini)
 
 An interactive tweet (or X post) generator that uses **Google’s Gemini API** to create perfect tweets based on your topic, tone, audience, and hashtags.
 
