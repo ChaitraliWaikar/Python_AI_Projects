@@ -1,4 +1,4 @@
-🛠️ Projects:
+## 🛠️ Projects: A collection of machine learning projects – ML models for water prediction, potato leaf disease detection & tweet generator agent.
 
 # 1️⃣ Water Shortage Risk Prediction
 
