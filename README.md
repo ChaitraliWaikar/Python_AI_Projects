@@ -41,9 +41,3 @@ Click the badge above ↑ and run the cells → everything works out of the box!
 1. Open the Colab link above  
 2. Run all cells (Runtime → Run all or Ctrl+F9)  
 3. Scroll down to the form, fill it, and click **Generate Tweet**
-
-Made with ❤️ using Google Gemini + Jupyter widgets
-
----
-⭐ If you like it, give the repo a star!  
-Feel free to fork and improve it.
