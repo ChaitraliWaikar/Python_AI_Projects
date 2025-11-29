@@ -1,6 +1,3 @@
-Welcome to my AI and Machine Learning Projects repository!
-This repository contains all the projects I worked on during the Edunet Foundation's Foundation Course Program, sponsored by Shell.
-
 🛠️ Projects:
 
 # 1️⃣ Water Shortage Risk Prediction
